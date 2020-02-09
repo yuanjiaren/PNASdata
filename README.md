@@ -1,1 +1,5 @@
 # PNASdata
+
+The compressed package contains the raw data of the paper we submitted on PNAS, which contain most of the results in the article,such as information of atomic Structure, Phase transition data，kubo gap，interfacial atomic structure，formation energy，dispalcement，transmission spectra，complexband, Openmx_Pseudopotential and etc..
+
+The data is obatained by first principles calculation. The ground state electronic structure calculations are performed by using the Vienna ab initio Simulation Package (VASP) within the framework of DFT. We use projected augmented wave together with cutoff energy of 400 eV. The generalized gradient approximation (GGA) in the Perdew–Burke–Ernzerhof form is chosen as exchange correlation functional. In addition, the Brillouin zone is sampled by an 11×21×1 k-point grid. The convergence criterion of total energy is set to be 10−6 eV. All the structures are fully relaxed until the forces on atoms are smaller than 0.01 eV/Å. The kinetics analysis of the activation barrier of the 1H/1T’ structural phase transformation is conducted by the CI-NEB calculation. 
